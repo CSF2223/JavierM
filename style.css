@@ -21,7 +21,7 @@ body{
     font-family: 'Open Sans' , sans-serif;
     font-weight:300;
     background-color:#3E6D9C;
-    color: #001253;
+    color: #FDFF00;
 }
 
 .hero{
@@ -38,7 +38,7 @@ body{
 .heroImage img{
     border-radius: 6rem;
     box-shadow: 10px 10px #000;
-    width: 100%;
+    width: 55%;
     height: auto;
 }
 
@@ -74,7 +74,7 @@ body{
     border-radius: 25px;
     font-size: 0.9rem;
     font-weight: 700;
-    color: #200439;
+    color: #361356;
     text-decoration: none;
     box-shadow: 8px 8px 4px #000;
 }
